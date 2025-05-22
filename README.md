@@ -1,4 +1,6 @@
-# Intelligence-Led Adversarial Threat Modelling with VECTR
+# Strategic Intelligence for Threat Hunting (SITH)
+
+## Intelligence-Led Adversarial Threat Modelling with VECTR
 
 More and more organisations are beginning to realise the value of ATT&CK. But how can you bring your teams together to help develop and nurture an operational  framework which consistently yields results?
 
