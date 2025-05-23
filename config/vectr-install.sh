@@ -1,6 +1,5 @@
-
-sudo apt-get update
-sudo apt-get install ca-certificates curl git wget
+sudo apt-get update && sudo apt upgrade -y
+sudo apt-get install ca-certificates curl git wget -y
 
 
 # Add Docker’s official GPG key
@@ -17,7 +16,7 @@ echo \
 
 # Install Docker
 sudo apt-get update
-sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
 
 
 # Install VECTR
